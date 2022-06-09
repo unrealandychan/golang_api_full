@@ -1,7 +1,7 @@
 package db
 
 import (
-	"TechSchoolGolang/util"
+	"github.com/unrealandychan/golang_api_full/util"
 	"context"
 	"database/sql"
 	"github.com/stretchr/testify/require"

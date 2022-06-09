@@ -1,11 +1,11 @@
 package main
 
 import (
-	"TechSchoolGolang/api"
-	db "TechSchoolGolang/db/sqlc"
-	"TechSchoolGolang/util"
 	"database/sql"
 	_ "github.com/lib/pq"
+	"github.com/unrealandychan/golang_api_full/api"
+	db "github.com/unrealandychan/golang_api_full/db/sqlc"
+	"github.com/unrealandychan/golang_api_full/util"
 	"log"
 )
 

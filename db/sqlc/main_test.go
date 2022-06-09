@@ -1,8 +1,8 @@
 package db
 
 import (
-	"TechSchoolGolang/util"
 	"database/sql"
+	"github.com/unrealandychan/golang_api_full/util"
 
 	_ "github.com/lib/pq"
 	"log"
